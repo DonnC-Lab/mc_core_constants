@@ -1,7 +1,7 @@
 name: mc_core_constants
-description: A new Flutter package project.
+description: Mini Campus core constants
 version: 0.0.1
-homepage:
+homepage: https://github.com/DonnC-Lab/mini_campus
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
